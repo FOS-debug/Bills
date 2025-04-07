@@ -1,14 +1,14 @@
 [
     {
         "id": "disp001",
-        "username": "Admin",
+        "username": "LilaRose",
         "description": "Sample dispute description",
         "status": "open",
         "timestamp": "2025-04-06T12:00:00Z"
     },
     {
         "id": "disp002",
-        "username": "Admin",
+        "username": "LilaRose",
         "description": "Resolved dispute",
         "status": "closed",
         "timestamp": "2025-04-05T10:00:00Z",
