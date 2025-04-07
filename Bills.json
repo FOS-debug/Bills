@@ -1,16 +1,17 @@
 [
     {
-        "id": "bill001",
-        "username": "LilaRose",
-        "amount": 100,
-        "dueDate": "2025-04-15",
-        "description": "Water Bill"
+        "id": "disp001",
+        "username": "Admin",
+        "description": "Sample dispute description",
+        "status": "open",
+        "timestamp": "2025-04-06T12:00:00Z"
     },
     {
-        "id": "bill002",
-        "username": "LilaRose",
-        "amount": 150,
-        "dueDate": "2025-04-20",
-        "description": "Electricity Bill"
+        "id": "disp002",
+        "username": "Admin",
+        "description": "Resolved dispute",
+        "status": "closed",
+        "timestamp": "2025-04-05T10:00:00Z",
+        "actionsTaken": "Issue resolved with customer"
     }
 ]
